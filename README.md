@@ -20,7 +20,7 @@ ubuntu kalilinux
 linux(debian)  
   
   
-#What this tool  can do?
+# What this tool  can do?
 Phishing attack  
 1.please setting.  
 2.create fake HTML-page.  
