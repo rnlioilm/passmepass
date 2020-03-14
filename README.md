@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# passmepass
-=======
 # passmepass  
 ![Screenshot from 2020-02-27 19-38-30](https://user-images.githubusercontent.com/47826962/75437138-15de9b00-5999-11ea-80d4-acdbfc9a3662.png)
 passmepass 
@@ -100,4 +97,3 @@ Enter the *run*.
 ```
 passmepass>> run
 ```
->>>>>>> 5e37763... README
